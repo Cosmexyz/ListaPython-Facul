@@ -8,8 +8,9 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 ## Todas as questões
 
 - Analisador de texto.
-- converte medidas.
-- Dar desconto.
+- Calcular desconto
+- Converte medidas.
+- Idade em dias
 
 ---
 
