@@ -11,6 +11,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Calcular desconto
 - Converte medidas.
 - Idade em dias
+- par ou impar
 
 ---
 
