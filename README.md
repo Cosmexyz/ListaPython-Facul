@@ -14,6 +14,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Idade em dias
 - Mímimo e maximo
 - par ou impar
+- Tabuada personalizada
 
 ---
 
