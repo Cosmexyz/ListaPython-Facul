@@ -8,8 +8,9 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 ## Todas as questões
 
 - Analisador de texto.
-- Calcular desconto
+- Calcular aumento.
 - Converte medidas.
+- Desconoto de um produto.
 - Idade em dias
 - Mímimo e maximo
 - par ou impar
