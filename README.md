@@ -11,6 +11,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Calcular aumento.
 - Converte medidas.
 - Desconoto de um produto.
+- Estatísticas de Lista
 - Idade em dias
 - Mímimo e maximo
 - par ou impar
