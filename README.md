@@ -17,6 +17,7 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 - Mímimo e maximo.
 - par ou impar.
 - Tabuada personalizada.
+- Sistema de cadastros.
 - Validador de senha.
 
 ---
